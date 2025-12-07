@@ -5,7 +5,7 @@
 This repository provides:
 
 1. A **Google Colab notebook**: `ICS471_ishara.ipynb`  
-2. A **zipped project folder**: `Pose86K-CSLR-Isharah.zip` (code + data structure)
+2. A **zipped project folder**: `Pose86K-CSLR-Isharah.zip` (code + data structure): https://drive.google.com/file/d/1iF-x0Iiv_iDAM1pLQxXaywQ3rViQdqbF/view?usp=sharing
 
 The user is expected to:
 
@@ -42,7 +42,7 @@ Training and evaluation are done on disjoint signer sets.
 
 You will find at least:
 
-- a link to `Pose86K-CSLR-Isharah.zip` – the whole project folder (code + structure)  
+- a link to `Pose86K-CSLR-Isharah.zip` – https://drive.google.com/file/d/1iF-x0Iiv_iDAM1pLQxXaywQ3rViQdqbF/view?usp=sharing 
 - `ICS471_ishara.ipynb` – the main Colab notebook  
 
 After extracting `Pose86K-CSLR-Isharah.zip`, the folder structure looks like:
